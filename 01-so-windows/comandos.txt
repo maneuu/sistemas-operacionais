@@ -1,0 +1,53 @@
+1. Abrir o terminal de comando (Prompt de Comando).
+2. cls
+3. date
+4. hostname → DSK26LB02-JP
+5. time
+6. whoami → ifpb\20242370034
+7. help
+8. net user → 2 usuários
+9. dir
+10. dir /w → 0 arquivos
+11. dir C:\
+
+Pastas do sistema: Windows, Users, Program Files, etc.
+
+Ferramentas de desenvolvimento: java, jetbra, eclipse-workspace, etc.
+
+Programas específicos: Bizagi, brModelo, DataCleaner, etc.
+
+Outros arquivos e pastas específicas do usuário ou da empresa.
+
+12. echo. > text.txt
+13. ren text.txt text.doc
+14. copy text.doc text.txt
+15. copy text.doc + text.txt text.bkp
+16. mkdir atividade1
+    mkdir atividade2
+17. cd atividade1
+    dir
+    Voltar ao diretório pai: cd ..
+18.
+
+
+
+echo Conteúdo do arquivo trabalho1 > Z:\20242370034\Desktop\atividade1\trabalho1.txt
+echo Conteúdo do arquivo trabalho2 > Z:\20242370034\Desktop\atividade2\trabalho2.txt
+19.
+
+
+copy Z:\20242370034\Desktop\atividade1\trabalho1.txt Z:\20242370034\Desktop\atividade2\
+20. mkdir atividade1\atividade11
+21. mkdir atividade1\atividade12
+22.
+
+notepad numeros.txt
+Digitar os números de 01 a 05 (um por linha), salvar e sair.
+
+23. ren numeros.txt sequencia.txt
+24. dir > listaarquivos.txt
+25. tree
+
+Para salvar a árvore no Desktop:
+
+tree Z:\ > Z:\20242370034\Desktop\estrutura.txt
